@@ -1,1 +1,1 @@
-# Detection_of_DeepFake
+# Detection_of_Video_DeepFake
